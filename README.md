@@ -1,3 +1,3 @@
 # Java-basico
 
-Reposiório criado para salvar meus conhecimentos em Java
+Repositório criado para salvar meus conhecimentos em Java
